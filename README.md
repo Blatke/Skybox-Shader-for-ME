@@ -1,4 +1,4 @@
-# Skybox-Shader-for-ME
+# Skybox Shader for ME
 HS2/AIS Studio Shader
 
 This is for letting Material Editor show the proper options for users to adjust the tint color, exposure and rotation of a skybox item in Studio. 
