@@ -15,3 +15,9 @@ When you add a skybox item in Studio, you can select this skybox on Workspace an
 Demonstration video: https://youtu.be/J4qGNUjFwaU
 
 Commonly, this mod is compatible with the skybox items using the shaders of Skybox/Cubemap or Skybox/Panoramic in Studio. If the skybox uses other shaders, this mod might not help.
+
+<br/>
+
+> [!TIP]
+>
+> Sometimes a skybox item doesn't display when adding in the scene. Probably the scene is adjusted by Graphic settings such like adding reflection probe or background, and thus the skybox item is covered or erased in screen rendering. Can try to increase the value to 1999 or a bigger one in **Render Queue** on its MaterialEditor tab.
